@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Digitalmarket
 =======
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js] <a href="https://stackoverflow.com/"><img src="RELATIVE_PATH_TO_IMAGE></img></a> .
 
 ## Getting Started
 
